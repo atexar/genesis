@@ -1,0 +1,15 @@
+/_worker.js
+/_routes.json
+/wrangler.jsonc
+/README.md
+/.git/
+/.github/
+/.wrangler/
+/node_modules/
+/package.json
+/package-lock.json
+/*.zip
+/.env
+/.env.*
+/.dev.vars
+/.dev.vars.*
